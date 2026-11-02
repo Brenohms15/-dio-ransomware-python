@@ -1,0 +1,1 @@
+# Simulacao-de-Ransomware-com-Python
